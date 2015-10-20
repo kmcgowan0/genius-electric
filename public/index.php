@@ -13,6 +13,8 @@
           </div>
 
             <div class="form box">
+                <h3>Can You Save?</h3>
+                <p class="subhead">Find out below</p>
               <form action="mail.php" method="POST">
                 <input type="text" name="name" value="Name"><br>
                 <input type="tel" name="number" value="Phone"><br>
@@ -35,9 +37,10 @@
 
               </form>
                 <p class="ftnote">A member of our team will contact you within 24 hours</p>
-          </div> 
+          </div>
+          
       </div>
-      
+      <img src="images/fg-lines.png" class="details"/>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         
     <!-- Include all compiled plugins (below), or include individual files as needed -->
