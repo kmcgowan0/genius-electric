@@ -13,8 +13,8 @@
           </div>
 
             <div class="form box">
-                <h3>Can You Save?</h3>
-                <p class="subhead">Find out below</p>
+                <p class="heading">Can You Save?</p>
+                <p class="subhead">Enter your details below to find out</p>
               <form action="mail.php" method="POST">
                 <input type="text" name="name" value="Name"><br>
                 <input type="tel" name="number" value="Phone"><br>
@@ -38,9 +38,25 @@
               </form>
                 <p class="ftnote">A member of our team will contact you within 24 hours</p>
           </div>
+          <div class="testimonials">
+              <p class="title">Why Choose Us?</p>
+                <div class="test one">
+                    <p>A 'Genius' way to save money</p>
+                    <p>All the staff at 'Genius Energy' are friendly and very helpful throughout the whole process. We had an excellent consultant who ensured that we understood all the ins and outs of the costs and savings to having solar panels fitted to our roof. I would and have recommended 'Genius Energy' to my friends family and neighbours as I believe that it provides a great saving to your energy bills.</p>
+                </div>
+                <div class="test two">
+                    <p>Excellent customer service, the sales consultant was helpful answered all my questions and wasn't at all pushy, the customer service staff kept me upto date every step of the way and the way and the instillation team were helpful and worked quick
+</p>
+                </div>
+                <div class="test three">
+                    <p>Having decided to investigate solar energy, Genius Energy were professional, helpful and knowledgable. They gave very clear advice which tallied with our own research. Purchase was effeciiently organised and the installation was well organised and professional, with office staff hugely helpful. If you are intersted in green energy, Genius Energy is well worth contacting for a excellent and friendly service.</p>
+                </div>
+          </div>
           
       </div>
-      <img src="images/fg-lines.png" class="details"/>
+      <div class="footer">
+        <p>This is some accreditation <img src="images/best-temp.png"/></p>
+      </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         
     <!-- Include all compiled plugins (below), or include individual files as needed -->

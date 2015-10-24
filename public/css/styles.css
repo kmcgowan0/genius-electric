@@ -8,15 +8,17 @@ body {
     margin-left: auto;
     margin-right: auto;
     background-color: #fff;
-    opacity: 0.9;
+    opacity: 0.95;
     margin-top: 10px;
 }
 
-.box h3 {
+.heading {
     font-family: sans-serif;
     font-size: 30px;
     color: #1e0e46;
     text-align: center;
+    font-weight: 800;
+    font-style: bold;
 }
 
 .subhead  {
@@ -81,13 +83,45 @@ select {
     font-size: 11px;
     font-family: sans-serif;
     text-align: center;
+    color: #1e0e46;
 }
 
-.details img {
+.foreground img {
     position: fixed;
-    top:0;
+    bottom: 0;
     left: 0;
     clear: both;
+    width: 100%;
 }
+
+.title {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    font-weight: 800;
+    font-style: bold;
+}
+
+.test {
+    
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: 200px;
+    width: 25%;
+    margin: 4%;
+    
+    color: #fff;
+}
+
+.footer {
+    width: 100%;
+    background-color: #000;
+    opacity: 0.8;
+}
+
+.footer
 
 
